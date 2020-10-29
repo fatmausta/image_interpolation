@@ -1,0 +1,2 @@
+%
+img = imread('Scar.png');
